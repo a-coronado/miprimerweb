@@ -1,0 +1,42 @@
+body{
+    background-color:  #ca9fad;
+    color: crimson;
+    font-family: agbalumo; 
+}
+ p{
+    font-family: ubuntu;
+    color:blanchedalmond;
+    text-shadow: 1px 1px 0 black;
+}
+.img1{
+    width: 150px;
+    height: 150px;
+    border-style: double dotted;
+    border-width: 5px;
+    border-color:darkcyan;
+    margin-left: 50px;
+}
+.img2{
+    width: 200px;
+    border-style: solid;
+    border-color:  #dcde8d;
+    margin-left: 100px;
+}
+footer{
+    background-color: #eaeacb;
+    
+}
+footer .p{
+    color:darkolivegreen
+}
+small{
+    color: #52607e;
+}
+li{
+    color: #5d1d3b;
+    font-family: DM Sans;
+}
+form{
+    color: #5d1d3b;
+    font-family: DM Sans;
+}
